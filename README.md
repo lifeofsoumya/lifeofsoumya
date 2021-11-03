@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumya</h1>
 <h3 align="center">A passionate Developer and Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lifeofsoumya&label=Profile%20views&color=0e75b6&style=flat" alt="lifeofsoumya" /> </p>
-<br/>
+[![Website](https://img.shields.io/website?label=indGeek.com&style=for-the-badge&url=https%3A%2F%2Findgeek.com)](https://indgeek.com)
 
 - 🔭 I just launched my first course: [Beginner to Advance Email Marketing course](https://bit.ly/beginneremailcourse)
 
