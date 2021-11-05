@@ -23,9 +23,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [What is NFT? Is it worth investing in?](https://indgeek.com/what-is-nft/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-nft)
 - [What is Artificial Intelligence | Is it the future?](https://indgeek.com/what-is-artificial-intelligence-is-it-the-future/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-artificial-intelligence-is-it-the-future)
-- [the 5 Best caching plugins for WordPress](https://turbohosty.com/blog/the-5-best-caching-plugins-for-wordpress/)
 - [What is LiFi? How does it Work? Practical uses of LiFi Technology](https://indgeek.com/what-is-lifi-how-does-it-work-uses-of-lifi/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-lifi-how-does-it-work-uses-of-lifi)
-- [5 Best Free Backup Plugins for WordPress](https://turbohosty.com/blog/5-best-free-backup-plugins-for-wordpress/)
+- [How to Become a Successful Investor as a Beginner](https://indgeek.com/how-to-become-a-successful-investor-as-a-beginner/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-become-a-successful-investor-as-a-beginner)
+- [How to Analyze profitable Stocks as a Beginner](https://indgeek.com/how-to-analyze-profitable-stocks-as-a-beginner/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-analyze-profitable-stocks-as-a-beginner)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
