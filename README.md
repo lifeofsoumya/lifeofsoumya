@@ -22,10 +22,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Best AR Sunglasses that you can have in 2021](https://indgeek.com/best-ar-sunglasses-in-2021/?utm_source=rss&utm_medium=rss&utm_campaign=best-ar-sunglasses-in-2021)
+- [Bluehost india review | Bluehost.in review 2022](https://turbohosty.com/blog/bluehost-india-review/)
+- [Hostinger India Review | Affordable Web Hosting](https://turbohosty.com/blog/hostinger-india-review/)
 - [What is NFT? Is it worth investing in?](https://indgeek.com/what-is-nft/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-nft)
 - [What is Artificial Intelligence | Is it the future?](https://indgeek.com/what-is-artificial-intelligence-is-it-the-future/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-artificial-intelligence-is-it-the-future)
-- [What is LiFi? How does it Work? Practical uses of LiFi Technology](https://indgeek.com/what-is-lifi-how-does-it-work-uses-of-lifi/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-lifi-how-does-it-work-uses-of-lifi)
-- [How to Become a Successful Investor as a Beginner](https://indgeek.com/how-to-become-a-successful-investor-as-a-beginner/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-become-a-successful-investor-as-a-beginner)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
