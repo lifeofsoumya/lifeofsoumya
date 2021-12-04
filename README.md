@@ -23,9 +23,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Top 5 Skills to Learn to Make Thousand Dollars a week](https://indgeek.com/top-5-skills-to-learn-to-make-thousand-dollars/?utm_source=rss&utm_medium=rss&utm_campaign=top-5-skills-to-learn-to-make-thousand-dollars)
 - [Best AR Sunglasses that you can have in 2021](https://indgeek.com/best-ar-sunglasses-in-2021/?utm_source=rss&utm_medium=rss&utm_campaign=best-ar-sunglasses-in-2021)
+- [Bluehost india review | Bluehost.in review 2022](https://turbohosty.com/blog/bluehost-india-review/)
+- [Hostinger India Review | Affordable Web Hosting](https://turbohosty.com/blog/hostinger-india-review/)
 - [What is NFT? Is it worth investing in?](https://indgeek.com/what-is-nft/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-nft)
-- [What is Artificial Intelligence | Is it the future?](https://indgeek.com/what-is-artificial-intelligence-is-it-the-future/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-artificial-intelligence-is-it-the-future)
-- [What is LiFi? How does it Work? Practical uses of LiFi Technology](https://indgeek.com/what-is-lifi-how-does-it-work-uses-of-lifi/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-lifi-how-does-it-work-uses-of-lifi)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
