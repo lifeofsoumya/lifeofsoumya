@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Best Lead Generation Plugins for WordPress](https://turbohosty.com/blog/7-best-lead-generation-plugins-for-wordpress/)
 - [Top 5 Skills to Learn to Make Thousand Dollars a week](https://indgeek.com/top-5-skills-to-learn-to-make-thousand-dollars/?utm_source=rss&utm_medium=rss&utm_campaign=top-5-skills-to-learn-to-make-thousand-dollars)
 - [Best AR Sunglasses that you can have in 2021](https://indgeek.com/best-ar-sunglasses-in-2021/?utm_source=rss&utm_medium=rss&utm_campaign=best-ar-sunglasses-in-2021)
 - [Bluehost india review | Bluehost.in review 2022](https://turbohosty.com/blog/bluehost-india-review/)
 - [Hostinger India Review | Affordable Web Hosting](https://turbohosty.com/blog/hostinger-india-review/)
-- [What is NFT? Is it worth investing in?](https://indgeek.com/what-is-nft/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-nft)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
