@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=indGeek.com&style=for-the-badge&url=https%3A%2F%2Findgeek.com)](https://indgeek.com)
 
-- 🔭 I just launched my first course: [Beginner to Advance Email Marketing course](https://bit.ly/beginneremailcourse)
+- 🔭 I just launched my first course: [Beginner to Advance Email Marketing course](https://bit.ly/beginnersemailcourse)
 
 - 🌱 I’m currently learning **Every Tech 🤣**
 
