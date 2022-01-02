@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Best laptops for Students under 1 Lakh](https://indgeek.com/best-laptops-for-students-under-1-lakh/?utm_source=rss&utm_medium=rss&utm_campaign=best-laptops-for-students-under-1-lakh)
+- [Metaverse Explained: What is it and how it works?](https://indgeek.com/metaverse-explained/?utm_source=rss&utm_medium=rss&utm_campaign=metaverse-explained)
 - [7 Best Lead Generation Plugins for WordPress](https://turbohosty.com/blog/7-best-lead-generation-plugins-for-wordpress/)
-- [Bluehost india review | Bluehost.in review 2022](https://turbohosty.com/blog/bluehost-india-review/)
-- [Hostinger India Review | Affordable Web Hosting](https://turbohosty.com/blog/hostinger-india-review/)
-- [the 5 Best caching plugins for WordPress](https://turbohosty.com/blog/the-5-best-caching-plugins-for-wordpress/)
-- [5 Best Free Backup Plugins for WordPress](https://turbohosty.com/blog/5-best-free-backup-plugins-for-wordpress/)
+- [Top 5 Skills to Learn to Make Thousand Dollars a week](https://indgeek.com/top-5-skills-to-learn-to-make-thousand-dollars/?utm_source=rss&utm_medium=rss&utm_campaign=top-5-skills-to-learn-to-make-thousand-dollars)
+- [Best AR Sunglasses that you can have in 2021](https://indgeek.com/best-ar-sunglasses-in-2021/?utm_source=rss&utm_medium=rss&utm_campaign=best-ar-sunglasses-in-2021)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
