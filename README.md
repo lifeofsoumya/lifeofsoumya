@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Best Chromecast Apps for Google TV in 2022](https://indgeek.com/7-best-chromecast-apps-for-google-tv-in-2022/?utm_source=rss&utm_medium=rss&utm_campaign=7-best-chromecast-apps-for-google-tv-in-2022)
 - [Top 5 Future proof Tech skills that you can learn](https://indgeek.com/top-5-future-proof-tech-skills-that-you-can-learn/?utm_source=rss&utm_medium=rss&utm_campaign=top-5-future-proof-tech-skills-that-you-can-learn)
 - [WooCommerce vs Shopify | Which one is better?](https://turbohosty.com/blog/woocommerce-vs-shopify/)
 - [Best laptops for Students under 1 Lakh](https://indgeek.com/best-laptops-for-students-under-1-lakh/?utm_source=rss&utm_medium=rss&utm_campaign=best-laptops-for-students-under-1-lakh)
 - [Metaverse Explained: What is it and how it works?](https://indgeek.com/metaverse-explained/?utm_source=rss&utm_medium=rss&utm_campaign=metaverse-explained)
-- [7 Best Lead Generation Plugins for WordPress](https://turbohosty.com/blog/7-best-lead-generation-plugins-for-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
