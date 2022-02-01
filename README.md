@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SAS vs R | Fully explained](https://indgeek.com/sas-vs-r-fully-explained/)
 - [How to create a social share button without plugins](https://turbohosty.com/blog/create-a-social-share-button-without-plugins/)
+- [7 Best Chromecast Apps for Google TV in 2022](https://indgeek.com/7-best-chromecast-apps-for-google-tv-in-2022/)
+- [Top 5 Future proof Tech skills that you can learn](https://indgeek.com/top-5-future-proof-tech-skills-that-you-can-learn/)
 - [WooCommerce vs Shopify | Which one is better?](https://turbohosty.com/blog/woocommerce-vs-shopify/)
-- [7 Best Lead Generation Plugins for WordPress](https://turbohosty.com/blog/7-best-lead-generation-plugins-for-wordpress/)
-- [Bluehost india review | Bluehost.in review 2022](https://turbohosty.com/blog/bluehost-india-review/)
-- [Hostinger India Review | Affordable Web Hosting](https://turbohosty.com/blog/hostinger-india-review/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
