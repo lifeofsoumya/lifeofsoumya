@@ -22,10 +22,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [SAS vs R | Fully explained](https://indgeek.com/sas-vs-r-fully-explained/)
-- [How to create a social share button without plugins](https://turbohosty.com/blog/create-a-social-share-button-without-plugins/)
 - [7 Best Chromecast Apps for Google TV in 2022](https://indgeek.com/7-best-chromecast-apps-for-google-tv-in-2022/)
 - [Top 5 Future proof Tech skills that you can learn](https://indgeek.com/top-5-future-proof-tech-skills-that-you-can-learn/)
-- [WooCommerce vs Shopify | Which one is better?](https://turbohosty.com/blog/woocommerce-vs-shopify/)
+- [Best laptops for Students under 1 Lakh](https://indgeek.com/best-laptops-for-students-under-1-lakh/)
+- [Metaverse Explained: What is it and how it works?](https://indgeek.com/metaverse-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
