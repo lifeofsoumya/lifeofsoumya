@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Tech skills that you can learn to Earn Money](https://indgeek.com/top-5-tech-skills-that-you-can-learn-to-earn-money/)
 - [2 ways to Customize WordPress Login page Without Plugins](https://turbohosty.com/blog/customize-wordpress-login-page-without-plugins/)
 - [SAS vs R | Fully explained](https://indgeek.com/sas-vs-r-fully-explained/)
 - [How to create a social share button without plugins](https://turbohosty.com/blog/create-a-social-share-button-without-plugins/)
 - [7 Best Chromecast Apps for Google TV in 2022](https://indgeek.com/7-best-chromecast-apps-for-google-tv-in-2022/)
-- [Top 5 Future proof Tech skills that you can learn](https://indgeek.com/top-5-future-proof-tech-skills-that-you-can-learn/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
