@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I love to draw and play games**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Top 5 Tech skills that you can learn to Earn Money](https://indgeek.com/top-5-tech-skills-that-you-can-learn-to-earn-money/)
 - [2 ways to Customize WordPress Login page Without Plugins](https://turbohosty.com/blog/customize-wordpress-login-page-without-plugins/)
