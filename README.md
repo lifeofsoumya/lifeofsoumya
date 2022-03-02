@@ -23,9 +23,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Top 5 Future proof Tech skills | Part 2](https://indgeek.com/top-5-future-proof-tech-skills-part-2/)
 - [The evolution of the eSports industry](https://indgeek.com/evolution-of-the-esports-industry/)
-- [How to add social follow button without plugin](https://turbohosty.com/blog/how-to-add-social-follow-button-without-plugin/)
 - [Is Time travel possible? Explained](https://indgeek.com/is-time-travel-possible/)
-- [SEMrush Coupon | Get a 30 days Free trial](https://turbohosty.com/blog/semrush-coupon/)
+- [Top 5 Tech skills that you can learn to Earn Money](https://indgeek.com/top-5-tech-skills-that-you-can-learn-to-earn-money/)
+- [SAS vs R | Fully explained](https://indgeek.com/sas-vs-r-fully-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
