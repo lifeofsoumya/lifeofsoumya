@@ -41,7 +41,7 @@
 
 
   <br/>
-    <a href="https://github.com/lifeofsoumya/github-readme-stats"><img width="250px" alt="Soumya Mondal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lifeofsoumya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/lifeofsoumya/github-readme-stats"><img width="290px" alt="Soumya Mondal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lifeofsoumya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/lifeofsoumya/github-readme-stats"><img alt="Soumya Mondal's  Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsoumya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <br/>
