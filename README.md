@@ -21,7 +21,7 @@
 - [The Past, Present, and Future of Cloud Computing](https://indgeek.com/past-present-and-future-of-cloud-computing/)
 - [Top 5 Future proof Tech skills | Part 2](https://indgeek.com/top-5-future-proof-tech-skills-part-2/)
 - [The evolution of the eSports industry](https://indgeek.com/evolution-of-the-esports-industry/)
-- [Is Time travel possible? Explained](https://indgeek.com/is-time-travel-possible/)
+- [How to add social follow button without plugin](https://turbohosty.com/blog/how-to-add-social-follow-button-without-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
