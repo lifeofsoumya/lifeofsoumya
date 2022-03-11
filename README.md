@@ -18,10 +18,10 @@
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Create a popup in WordPress without plugin](https://turbohosty.com/blog/create-a-popup-in-wordpress-without-plugin/)
-- [How to create an Encryption algorithm](https://indgeek.com/how-to-create-an-encryption-algorithm/)
-- [The Past, Present, and Future of Cloud Computing](https://indgeek.com/past-present-and-future-of-cloud-computing/)
-- [Top 5 Future proof Tech skills | Part 2](https://indgeek.com/top-5-future-proof-tech-skills-part-2/)
-- [The evolution of the eSports industry](https://indgeek.com/evolution-of-the-esports-industry/)
+- [How to add social follow button without plugin](https://turbohosty.com/blog/how-to-add-social-follow-button-without-plugin/)
+- [SEMrush Coupon | Get a 30 days Free trial](https://turbohosty.com/blog/semrush-coupon/)
+- [2 ways to Customize WordPress Login page Without Plugins](https://turbohosty.com/blog/customize-wordpress-login-page-without-plugins/)
+- [How to create a social share button without plugins](https://turbohosty.com/blog/create-a-social-share-button-without-plugins/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
