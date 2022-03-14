@@ -17,11 +17,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create a stock Price API](https://indgeek.com/how-to-create-a-stock-price-api/)
 - [Esports as a career in future](https://indgeek.com/esports-as-a-career-in-future/)
 - [Create a popup in WordPress without plugin](https://turbohosty.com/blog/create-a-popup-in-wordpress-without-plugin/)
 - [How to create an Encryption algorithm](https://indgeek.com/how-to-create-an-encryption-algorithm/)
 - [The Past, Present, and Future of Cloud Computing](https://indgeek.com/past-present-and-future-of-cloud-computing/)
-- [Top 5 Future proof Tech skills | Part 2](https://indgeek.com/top-5-future-proof-tech-skills-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
