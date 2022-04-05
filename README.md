@@ -18,10 +18,10 @@
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to send Emails using NodeJS](https://indgeek.com/how-to-send-emails-using-nodejs/)
-- [How to add contact form in WordPress without plugin](https://turbohosty.com/blog/add-contact-form-in-wordpress-without-plugin/)
 - [Advantages of using Linux](https://indgeek.com/advantages-of-using-linux/)
 - [How to create a stock Price API](https://indgeek.com/how-to-create-a-stock-price-api/)
 - [Esports as a career in future](https://indgeek.com/esports-as-a-career-in-future/)
+- [How to create an Encryption algorithm](https://indgeek.com/how-to-create-an-encryption-algorithm/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
