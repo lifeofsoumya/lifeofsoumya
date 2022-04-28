@@ -21,7 +21,7 @@
 - [Introduction to JavaScript Promises](https://indgeek.com/introduction-to-javascript-promises/)
 - [Linux Command Cheatsheet For Beginners](https://indgeek.com/linux-command-cheatsheet-for-beginners/)
 - [How to send Emails using NodeJS](https://indgeek.com/how-to-send-emails-using-nodejs/)
-- [How to add contact form in WordPress without plugin](https://turbohosty.com/blog/add-contact-form-in-wordpress-without-plugin/)
+- [Advantages of using Linux](https://indgeek.com/advantages-of-using-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
