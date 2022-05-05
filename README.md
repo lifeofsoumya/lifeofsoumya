@@ -17,11 +17,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Decode QR Code with 6 lines of Python code](https://indgeek.com/decode-qr-code-with-6-lines-of-python-code/)
 - [Generate QR Code with 3 lines of Python code](https://indgeek.com/generate-qr-code-with-3-lines-of-python-code/)
 - [How to send Emails from JavaScript App](https://indgeek.com/how-to-send-emails-from-javascript-app/)
 - [Introduction to JavaScript Promises](https://indgeek.com/introduction-to-javascript-promises/)
 - [Linux Command Cheatsheet For Beginners](https://indgeek.com/linux-command-cheatsheet-for-beginners/)
-- [How to send Emails using NodeJS](https://indgeek.com/how-to-send-emails-using-nodejs/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
