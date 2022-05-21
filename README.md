@@ -17,11 +17,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Hoisting Explained](https://indgeek.com/javascript-hoisting-explained/)
 - [HackerRank variable sized arrays solution c++ explained](https://indgeek.com/hackerrank-variable-sized-arrays-solution-c-explained/)
 - [Decode QR Code with 6 lines of Python code](https://indgeek.com/decode-qr-code-with-6-lines-of-python-code/)
 - [Generate QR Code with 3 lines of Python code](https://indgeek.com/generate-qr-code-with-3-lines-of-python-code/)
 - [How to send Emails from JavaScript App](https://indgeek.com/how-to-send-emails-from-javascript-app/)
-- [Introduction to JavaScript Promises](https://indgeek.com/introduction-to-javascript-promises/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
