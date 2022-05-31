@@ -17,11 +17,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Say Hello World HackerRank C++ solution](https://indgeek.com/hackerrank-say-hello-world-with-c-solution/)
 - [JavaScript Closure Explained](https://indgeek.com/javascript-closure-explained/)
 - [HackerRank C tutorial for loop solution c++](https://indgeek.com/hackerrank-c-tutorial-for-loop-solution/)
 - [JavaScript Hoisting Explained](https://indgeek.com/javascript-hoisting-explained/)
 - [HackerRank variable sized arrays solution c++ explained](https://indgeek.com/hackerrank-variable-sized-arrays-solution-c-explained/)
-- [Decode QR Code with 6 lines of Python code](https://indgeek.com/decode-qr-code-with-6-lines-of-python-code/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
