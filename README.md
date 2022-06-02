@@ -17,11 +17,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Input and output C++ HackerRank solution](https://indgeek.com/input-and-output-c-hackerrank-solution/)
 - [How to add custom fonts to WordPress without plugins](https://turbohosty.com/blog/how-to-add-custom-fonts-to-wordpress/)
 - [Say Hello World HackerRank C++ solution](https://indgeek.com/hackerrank-say-hello-world-with-c-solution/)
 - [JavaScript Closure Explained](https://indgeek.com/javascript-closure-explained/)
 - [HackerRank C tutorial for loop solution c++](https://indgeek.com/hackerrank-c-tutorial-for-loop-solution/)
-- [JavaScript Hoisting Explained](https://indgeek.com/javascript-hoisting-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
