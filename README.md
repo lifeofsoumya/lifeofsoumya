@@ -17,11 +17,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Multi Level Inheritance C++ HackerRank solution](https://indgeek.com/multi-level-inheritance-c-hackerrank-solution/)
-- [Conditional statements C++ HackerRank solution](https://indgeek.com/conditional-statements-c-hackerrank-solution/)
-- [Javascript Variables](https://indgeek.com/javascript-variables/)
-- [Basic Data types C++ HackerRank solution](https://indgeek.com/basic-data-types-c-hackerrank-solution/)
-- [Input and output C++ HackerRank solution](https://indgeek.com/input-and-output-c-hackerrank-solution/)
+- [How to add custom fonts to WordPress without plugins](https://turbohosty.com/blog/how-to-add-custom-fonts-to-wordpress/)
+- [How to add contact form in WordPress without plugin](https://turbohosty.com/blog/add-contact-form-in-wordpress-without-plugin/)
+- [Create a popup in WordPress without plugin](https://turbohosty.com/blog/create-a-popup-in-wordpress-without-plugin/)
+- [How to add social follow button without plugin](https://turbohosty.com/blog/how-to-add-social-follow-button-without-plugin/)
+- [SEMrush Coupon | Get a 30 days Free trial](https://turbohosty.com/blog/semrush-coupon/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
