@@ -17,11 +17,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rectangle Area C++ HackerRank solution](https://indgeek.com/rectangle-area-c-hackerrank-solution/)
 - [Inheritance Introduction C++ HackerRank solution](https://indgeek.com/inheritance-introduction-c-hackerrank-solution/)
 - [Multi Level Inheritance C++ HackerRank solution](https://indgeek.com/multi-level-inheritance-c-hackerrank-solution/)
 - [Conditional statements C++ HackerRank solution](https://indgeek.com/conditional-statements-c-hackerrank-solution/)
 - [Javascript Variables](https://indgeek.com/javascript-variables/)
-- [Basic Data types C++ HackerRank solution](https://indgeek.com/basic-data-types-c-hackerrank-solution/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
