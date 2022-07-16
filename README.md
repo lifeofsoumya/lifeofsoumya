@@ -17,11 +17,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pointers in C++ HackerRank solution](https://indgeek.com/pointers-hackerrank-solution/)
 - [Functions HackerRank solution in c++](https://indgeek.com/functions-hackerrank-solution/)
 - [Arrays introduction C++ HackerRank solution](https://indgeek.com/arrays-introduction-c-hackerrank-solution/)
 - [Rectangle Area C++ HackerRank solution](https://indgeek.com/rectangle-area-c-hackerrank-solution/)
 - [Inheritance Introduction C++ HackerRank solution](https://indgeek.com/inheritance-introduction-c-hackerrank-solution/)
-- [Multi Level Inheritance C++ HackerRank solution](https://indgeek.com/multi-level-inheritance-c-hackerrank-solution/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
