@@ -17,11 +17,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Destructuring Explained with Example.](https://indgeek.com/javascript-destructuring-explained-with-example/)
 - [JavaScript Set Explained with example.](https://indgeek.com/javascript-set-explained-with-example/)
 - [Pointers in C++ HackerRank solution](https://indgeek.com/pointers-hackerrank-solution/)
 - [Functions HackerRank solution in c++](https://indgeek.com/functions-hackerrank-solution/)
 - [Arrays introduction C++ HackerRank solution](https://indgeek.com/arrays-introduction-c-hackerrank-solution/)
-- [Rectangle Area C++ HackerRank solution](https://indgeek.com/rectangle-area-c-hackerrank-solution/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
