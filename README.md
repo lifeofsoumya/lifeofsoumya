@@ -17,11 +17,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript setTimeout&lpar;&rpar;](https://indgeek.com/javascript-settimeout/)
 - [YAML Tutorial – A beginners guide](https://indgeek.com/yaml-tutorial-a-beginners-guide/)
 - [JavaScript Destructuring Explained with Example.](https://indgeek.com/javascript-destructuring-explained-with-example/)
 - [JavaScript Set Explained with example.](https://indgeek.com/javascript-set-explained-with-example/)
 - [Pointers in C++ HackerRank solution](https://indgeek.com/pointers-hackerrank-solution/)
-- [Functions HackerRank solution in c++](https://indgeek.com/functions-hackerrank-solution/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
