@@ -17,11 +17,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create React App](https://indgeek.com/create-react-app/)
 - [Javascript Functions](https://indgeek.com/javascript-functions/)
 - [JavaScript setTimeout&lpar;&rpar;](https://indgeek.com/javascript-settimeout/)
 - [YAML Tutorial – A beginners guide](https://indgeek.com/yaml-tutorial-a-beginners-guide/)
 - [JavaScript Destructuring Explained with Example.](https://indgeek.com/javascript-destructuring-explained-with-example/)
-- [JavaScript Set Explained with example.](https://indgeek.com/javascript-set-explained-with-example/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
