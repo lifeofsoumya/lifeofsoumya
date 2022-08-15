@@ -17,11 +17,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Create React App](https://indgeek.com/create-react-app/)
-- [Javascript Functions](https://indgeek.com/javascript-functions/)
-- [JavaScript setTimeout&lpar;&rpar;](https://indgeek.com/javascript-settimeout/)
-- [YAML Tutorial – A beginners guide](https://indgeek.com/yaml-tutorial-a-beginners-guide/)
-- [JavaScript Destructuring Explained with Example.](https://indgeek.com/javascript-destructuring-explained-with-example/)
+- [How to add custom fonts to WordPress without plugins](https://turbohosty.com/blog/how-to-add-custom-fonts-to-wordpress/)
+- [How to add contact form in WordPress without plugin](https://turbohosty.com/blog/add-contact-form-in-wordpress-without-plugin/)
+- [Create a popup in WordPress without plugin](https://turbohosty.com/blog/create-a-popup-in-wordpress-without-plugin/)
+- [How to add social follow button without plugin](https://turbohosty.com/blog/how-to-add-social-follow-button-without-plugin/)
+- [SEMrush Coupon | Get a 30 days Free trial](https://turbohosty.com/blog/semrush-coupon/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
