@@ -17,11 +17,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Author image with author name in WordPress without plugins](https://turbohosty.com/blog/author-image-with-author-name-in-wordpress/)
 - [What is Raspberry Pi and what is it used for?](https://indgeek.com/what-is-raspberry-pi/)
 - [Create React App](https://indgeek.com/create-react-app/)
 - [Javascript Functions](https://indgeek.com/javascript-functions/)
 - [JavaScript setTimeout&lpar;&rpar;](https://indgeek.com/javascript-settimeout/)
-- [YAML Tutorial – A beginners guide](https://indgeek.com/yaml-tutorial-a-beginners-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
