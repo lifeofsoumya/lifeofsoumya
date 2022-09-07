@@ -17,11 +17,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Middleware in NodeJS with example](https://indgeek.com/middleware-in-nodejs-with-example/)
 - [Author image with author name in WordPress without plugins](https://turbohosty.com/blog/author-image-with-author-name-in-wordpress/)
-- [What is Raspberry Pi and what is it used for?](https://indgeek.com/what-is-raspberry-pi/)
-- [Create React App](https://indgeek.com/create-react-app/)
-- [Javascript Functions](https://indgeek.com/javascript-functions/)
+- [How to add custom fonts to WordPress without plugins](https://turbohosty.com/blog/how-to-add-custom-fonts-to-wordpress/)
+- [How to add contact form in WordPress without plugin](https://turbohosty.com/blog/add-contact-form-in-wordpress-without-plugin/)
+- [Create a popup in WordPress without plugin](https://turbohosty.com/blog/create-a-popup-in-wordpress-without-plugin/)
+- [How to add social follow button without plugin](https://turbohosty.com/blog/how-to-add-social-follow-button-without-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
