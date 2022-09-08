@@ -41,7 +41,13 @@
 
 
   <br/>
-    <a href="https://github.com/lifeofsoumya/github-readme-stats"><img width="290px" alt="Soumya Mondal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lifeofsoumya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/lifeofsoumya/github-readme-stats"><img width="290px" alt="Soumya Mondal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lifeofsoumya&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/lifeofsoumya/github-readme-stats"><img alt="Soumya Mondal's  Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsoumya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <a href="https://github.com/lifeofsoumya/StockAlert"><img width="290px" alt="Soumya Mondal's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=lifeofsoumya&repo=StockAlert&cache_seconds=86400&theme=merko" /></a>
+  <a href="https://github.com/Huntax/Huntax"><img width="290px" alt="Soumya Mondal's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=huntax&repo=huntax&cache_seconds=86400&theme=merko" /></a>
+  <br/>
+  <a href="https://github.com/lifeofsoumya/Chat-app-NodeJS"><img width="290px" alt="Soumya Mondal's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=lifeofsoumya&repo=Chat-app-NodeJS&cache_seconds=86400&theme=merko" /></a>
+  <a href="https://github.com/lifeofsoumya/Cronjob-Shell"><img width="290px" alt="Soumya Mondal's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=lifeofsoumya&repo=Cronjob-Shell&cache_seconds=86400&theme=merko" /></a>
   <br/>
 <br/>
