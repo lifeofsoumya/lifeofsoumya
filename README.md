@@ -5,7 +5,7 @@
 
 - 🔭 I just launched my first course: [Beginner to Advance Email Marketing course](https://bit.ly/beginnersemailcourse)
 
-- 🌱 I’m currently learning **Every Tech 🤣**
+- 🌱 I’m currently learning **Every Tech NextJS**
 
 - 👨‍💻 All of my projects are available at [https://soumyamondal.com/portfolio](https://soumyamondal.com/portfolio)
 
