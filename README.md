@@ -17,11 +17,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to style Recent posts in WordPress sidebar without plugin](https://turbohosty.com/blog/how-to-style-recent-posts-in-wordpress-sidebar/)
 - [Middleware in NodeJS with example](https://indgeek.com/middleware-in-nodejs-with-example/)
-- [Author image with author name in WordPress without plugins](https://turbohosty.com/blog/author-image-with-author-name-in-wordpress/)
 - [What is Raspberry Pi and what is it used for?](https://indgeek.com/what-is-raspberry-pi/)
 - [Create React App](https://indgeek.com/create-react-app/)
+- [Javascript Functions](https://indgeek.com/javascript-functions/)
+- [JavaScript setTimeout&lpar;&rpar;](https://indgeek.com/javascript-settimeout/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
