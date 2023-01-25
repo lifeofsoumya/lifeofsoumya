@@ -45,3 +45,10 @@
   <a href="https://github.com/lifeofsoumya/github-readme-stats"><img alt="Soumya Mondal's  Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsoumya&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <br/>
+
+### DSA 🧠 Practice
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/lifeofsoumya/ "Click to view profile")
+
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=lifeofsoumya)](https://leetcode.com/lifeofsoumya "Click to view profile")
+
+---
