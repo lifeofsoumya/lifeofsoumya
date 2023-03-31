@@ -17,11 +17,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ExpressJS Router explained with examples | NodeJS](https://indgeek.com/expressjs-router-explained-with-examples/)
 - [Basic SQL Cheat Sheet Interview ready Quick Revision](https://indgeek.com/basic-sql-cheat-sheet/)
 - [How to style Recent posts in WordPress sidebar without plugin](https://turbohosty.com/blog/how-to-style-recent-posts-in-wordpress-sidebar/)
 - [Middleware in NodeJS with example](https://indgeek.com/middleware-in-nodejs-with-example/)
 - [Author image with author name in WordPress without plugins](https://turbohosty.com/blog/author-image-with-author-name-in-wordpress/)
-- [What is Raspberry Pi and what is it used for?](https://indgeek.com/what-is-raspberry-pi/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
