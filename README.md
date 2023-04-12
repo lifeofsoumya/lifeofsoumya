@@ -17,11 +17,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Login page and integrating Backend | LinkTree Project](https://indgeek.com/creating-register-page-with-reactjs-linktree-project-3/)
+- [Creating Register page with ReactJS | LinkTree Project](https://indgeek.com/creating-register-page-with-reactjs-linktree-project-2/)
 - [Controllers in NodeJS explained with examples](https://indgeek.com/controllers-in-nodejs-explained-with-examples/)
 - [ExpressJS Router explained with examples | NodeJS](https://indgeek.com/expressjs-router-explained-with-examples/)
 - [Basic SQL Cheat Sheet Interview ready Quick Revision](https://indgeek.com/basic-sql-cheat-sheet/)
-- [How to style Recent posts in WordPress sidebar without plugin](https://turbohosty.com/blog/how-to-style-recent-posts-in-wordpress-sidebar/)
-- [Middleware in NodeJS with example](https://indgeek.com/middleware-in-nodejs-with-example/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
