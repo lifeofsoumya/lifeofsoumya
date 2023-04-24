@@ -3,9 +3,9 @@
 
 [![Website](https://img.shields.io/website?label=indGeek.com&style=for-the-badge&url=https%3A%2F%2Findgeek.com)](https://indgeek.com)
 
-- 🔭 I just launched a course: [Beginner to Advance Email Marketing course](https://bit.ly/beginnersemailcourse)
+- 🔭 I just uploaded a 4.5hour tutorial: [Build FullStack LinkTree with MERN | Multi user Auth & CRUD Operation](https://youtu.be/m5xjlSib2ls)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently looking for a **Developer Role**
 
 - 👨‍💻 All of my projects are available at [https://soumyamondal.com/portfolio](https://soumyamondal.com/portfolio)
 
