@@ -14,6 +14,7 @@
 - 📫 How to reach me **hi@soumyamondal.com**
 
 - 📄 Know about my experiences [https://soumyamondal.com/about](https://soumyamondal.com/about)
+- 💎 Have a habit of adjusting and improving projects (clean code + UI)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
