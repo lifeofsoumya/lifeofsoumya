@@ -18,11 +18,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating the edit profile, add links Page | LinkTree Project](https://indgeek.com/creating-the-edit-profile-add-links-page-linktree-project/)
 - [Creating the LinkTree page of a user | LinkTree Project](https://indgeek.com/creating-the-linktree-page-of-a-user-linktree-project/)
 - [Creating the Dashboard and Interacting with Backend | LinkTree Project](https://indgeek.com/creating-the-dashboard-and-interacting-with-backend-linktree-project/)
 - [Creating Login page and integrating Backend | LinkTree Project](https://indgeek.com/creating-register-page-with-reactjs-linktree-project-3/)
 - [Creating Register page with ReactJS | LinkTree Project](https://indgeek.com/creating-register-page-with-reactjs-linktree-project-2/)
-- [Controllers in NodeJS explained with examples](https://indgeek.com/controllers-in-nodejs-explained-with-examples/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
