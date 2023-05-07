@@ -28,10 +28,10 @@
 <h3 align="left">Connect with me:</h3>
 <br/>
 <p align="left">
-<a href="https://twitter.com/lifeofsoumya" target="blank"><img align="center" src="soumya mondal twitter" alt="lifeofsoumya" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/soumya-mondal" target="blank"><img align="center" src="soumya mondal linkedin" alt="lifeofsoumya" height="30" width="40" /></a>
-<a href="https://fb.com/lifeofsoumya" target="blank"><img align="center" src="soumya mondal facebook.svg" alt="lifeofsoumya" height="30" width="40" /></a>
-<a href="https://instagram.com/lifeofsoumya" target="blank"><img align="center" src="soumya mondal instsagram" alt="lifeofsoumya" height="30" width="40" /></a>
+<a href="https://twitter.com/lifeofsoumya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifeofsoumya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soumya-mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lifeofsoumya" height="30" width="40" /></a>
+<a href="https://fb.com/lifeofsoumya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lifeofsoumya" height="30" width="40" /></a>
+<a href="https://instagram.com/lifeofsoumya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lifeofsoumya" height="30" width="40" /></a>
 <a href="https://soumyamondal.com/contact" target="blank"><img align="center" src="https://soumyamondal.com/favicon.ico" alt="contact Soumya mondal" height="30" width="40" /></a>
 </p>
 
