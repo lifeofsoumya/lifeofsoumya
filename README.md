@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://indgeek.com](https://indgeek.com)
 
-- 📫 How to reach me **hi@soumyamondal.com**
+- 📫 How to reach me **soumya@indgeek.com**
 
 - 📄 Know about my experiences [https://soumyamondal.com/about](https://soumyamondal.com/about)
 - 💎 Have a habit of adjusting and improving projects (clean code + UI)
