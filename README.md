@@ -5,7 +5,7 @@
 
 - 🔭 I just uploaded a 4.5hour tutorial: [Build FullStack LinkTree with MERN | Multi user Auth & CRUD Operation](https://youtu.be/m5xjlSib2ls)
 
-- 🌱 I’m currently looking for a **Developer Role**
+- 🌱 I’m currently working as a **NextJS Developer**
 
 - 👨‍💻 All of my projects are available at [https://soumyamondal.com/portfolio](https://soumyamondal.com/portfolio)
 
