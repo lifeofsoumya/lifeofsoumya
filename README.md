@@ -18,11 +18,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to style Recent posts in WordPress sidebar without plugin](https://turbohosty.com/blog/how-to-style-recent-posts-in-wordpress-sidebar/)
-- [Author image with author name in WordPress without plugins](https://turbohosty.com/blog/author-image-with-author-name-in-wordpress/)
-- [How to add custom fonts to WordPress without plugins](https://turbohosty.com/blog/how-to-add-custom-fonts-to-wordpress/)
-- [How to add contact form in WordPress without plugin](https://turbohosty.com/blog/add-contact-form-in-wordpress-without-plugin/)
-- [Create a popup in WordPress without plugin](https://turbohosty.com/blog/create-a-popup-in-wordpress-without-plugin/)
+- [Creating the edit profile, add links Page | LinkTree Project](https://indgeek.com/creating-the-edit-profile-add-links-page-linktree-project/)
+- [Creating the LinkTree page of a user | LinkTree Project](https://indgeek.com/creating-the-linktree-page-of-a-user-linktree-project/)
+- [Creating the Dashboard and Interacting with Backend | LinkTree Project](https://indgeek.com/creating-the-dashboard-and-interacting-with-backend-linktree-project/)
+- [Creating Login page and integrating Backend | LinkTree Project](https://indgeek.com/creating-register-page-with-reactjs-linktree-project-3/)
+- [Creating Register page with ReactJS | LinkTree Project](https://indgeek.com/creating-register-page-with-reactjs-linktree-project-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
