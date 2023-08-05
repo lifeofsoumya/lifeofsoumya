@@ -18,11 +18,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Ultimate LED TV for Indian Consumers under 50k](https://indgeek.com/top-10-ultimate-led-tv-for-indian-consumers-under-50k/)
 - [Top 10 Smartphones to Buy in India: A Comprehensive Guide](https://indgeek.com/top-10-smartphones-to-buy-in-india-a-comprehensive-guide/)
 - [Creating the edit profile, add links Page | LinkTree Project](https://indgeek.com/creating-the-edit-profile-add-links-page-linktree-project/)
 - [Creating the LinkTree page of a user | LinkTree Project](https://indgeek.com/creating-the-linktree-page-of-a-user-linktree-project/)
 - [Creating the Dashboard and Interacting with Backend | LinkTree Project](https://indgeek.com/creating-the-dashboard-and-interacting-with-backend-linktree-project/)
-- [Creating Login page and integrating Backend | LinkTree Project](https://indgeek.com/creating-register-page-with-reactjs-linktree-project-3/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
