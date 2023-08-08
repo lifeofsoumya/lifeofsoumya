@@ -18,11 +18,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React Shopping Cart Search: Implementing Searching Functionality in Your Shopping Cart](https://indgeek.com/react-shopping-cart-search-implementing-searching-functionality-in-your-shopping-cart/)
 - [Search Filter in React JS: Creating a Dynamic Search List Component](https://indgeek.com/search-filter-in-react-js-creating-a-dynamic-search-list-component/)
 - [Top 10 Ultimate LED TV for Indian Consumers under 50k](https://indgeek.com/top-10-ultimate-led-tv-for-indian-consumers-under-50k/)
 - [Top 10 Smartphones to Buy in India: A Comprehensive Guide](https://indgeek.com/top-10-smartphones-to-buy-in-india-a-comprehensive-guide/)
 - [Creating the edit profile, add links Page | LinkTree Project](https://indgeek.com/creating-the-edit-profile-add-links-page-linktree-project/)
-- [Creating the LinkTree page of a user | LinkTree Project](https://indgeek.com/creating-the-linktree-page-of-a-user-linktree-project/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
