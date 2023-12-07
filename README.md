@@ -18,11 +18,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 15 RGB Headphones Under 2000 in India: Unveiling the Ultimate Sound Experience](https://indgeek.com/top-15-rgb-headphones-under-2000-in-india-unveiling-the-ultimate-sound-experience/)
-- [React Shopping Cart Search: Implementing Searching Functionality in Your Shopping Cart](https://indgeek.com/react-shopping-cart-search-implementing-searching-functionality-in-your-shopping-cart/)
-- [Search Filter in React JS: Creating a Dynamic Search List Component](https://indgeek.com/search-filter-in-react-js-creating-a-dynamic-search-list-component/)
-- [Top 10 Ultimate LED TV for Indian Consumers under 50k](https://indgeek.com/top-10-ultimate-led-tv-for-indian-consumers-under-50k/)
-- [Top 10 Smartphones to Buy in India: A Comprehensive Guide](https://indgeek.com/top-10-smartphones-to-buy-in-india-a-comprehensive-guide/)
+- [How to style Recent posts in WordPress sidebar without plugin](https://turbohosty.com/blog/how-to-style-recent-posts-in-wordpress-sidebar/)
+- [Author image with author name in WordPress without plugins](https://turbohosty.com/blog/author-image-with-author-name-in-wordpress/)
+- [How to add custom fonts to WordPress without plugins](https://turbohosty.com/blog/how-to-add-custom-fonts-to-wordpress/)
+- [How to add contact form in WordPress without plugin](https://turbohosty.com/blog/add-contact-form-in-wordpress-without-plugin/)
+- [Create a popup in WordPress without plugin](https://turbohosty.com/blog/create-a-popup-in-wordpress-without-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
