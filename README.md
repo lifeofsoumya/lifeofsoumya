@@ -18,10 +18,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to style Recent posts in WordPress sidebar without plugin](https://turbohosty.com/blog/how-to-style-recent-posts-in-wordpress-sidebar/)
-- [Author image with author name in WordPress without plugins](https://turbohosty.com/blog/author-image-with-author-name-in-wordpress/)
-- [How to add custom fonts to WordPress without plugins](https://turbohosty.com/blog/how-to-add-custom-fonts-to-wordpress/)
-- [How to add contact form in WordPress without plugin](https://turbohosty.com/blog/add-contact-form-in-wordpress-without-plugin/)
+- [5 Future proof tech skills to learn](https://indgeek.com/blog/top-5-future-proof-tech-skills-that-you-can-learn)
+- [Send Emails from JavaScript App](https://indgeek.com/learn/javascript/how-to-send-emails-from-javascript-app)
+- [Express router explained](https://indgeek.com/learn/nodejs/expressjs-router-explained-with-examples)
+- [Linux command cheatsheet](https://indgeek.com/learn/linux/linux-command-cheatsheet-for-beginners)
 - [Create a popup in WordPress without plugin](https://turbohosty.com/blog/create-a-popup-in-wordpress-without-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
