@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=indGeek.com&style=for-the-badge&url=https%3A%2F%2Findgeek.com)](https://indgeek.com)
 
-- 🔭 I just uploaded a 4.5hour tutorial: [Build FullStack LinkTree with MERN | Multi user Auth & CRUD Operation](https://youtu.be/m5xjlSib2ls)
+- 🔭 I just uploaded a Deepdive tutorial: [Deploying Node and NextJS on Separate Subdomains | Uptime kuma with Docker ](https://youtu.be/G8EN8vCrZsM)
 
 - 🌱 I’m currently working as a **NextJS Developer**
 
