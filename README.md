@@ -18,8 +18,8 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Future proof tech skills to learn](https://indgeek.com/blog/top-5-future-proof-tech-skills-that-you-can-learn)
-- [Send Emails from JavaScript App](https://indgeek.com/learn/javascript/how-to-send-emails-from-javascript-app)
+- [My Freelancing journey since 2016](https://blog.soumyamondal.com/my-freelancing-journey-since-2016)
+- [How did I land a job amid recession](https://blog.soumyamondal.com/how-did-i-land-a-job-amid-the-recession)
 - [Express router explained](https://indgeek.com/learn/nodejs/expressjs-router-explained-with-examples)
 - [Linux command cheatsheet](https://indgeek.com/learn/linux/linux-command-cheatsheet-for-beginners)
 - [Create a popup in WordPress without plugin](https://turbohosty.com/blog/create-a-popup-in-wordpress-without-plugin/)
