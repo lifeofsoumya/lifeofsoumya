@@ -3,9 +3,9 @@
 
 [![Website](https://img.shields.io/website?label=indGeek.com&style=for-the-badge&url=https%3A%2F%2Findgeek.com)](https://indgeek.com)
 
-- 🔭 I just uploaded a Deepdive tutorial: [Deploying Node and NextJS on Separate Subdomains | Uptime kuma with Docker ](https://youtu.be/G8EN8vCrZsM)
+- 🔭 Find my GeeksforGeeks Course on NextJS (**5/5 rated with 48,000 interested Geeks**): [GeeksforGeeks NextJS complete course ](https://www.geeksforgeeks.org/courses/nextjs-complete-course)
 
-- 🌱 I’m currently working as a **NextJS Developer**
+- 🌱 I’m currently working as a **Senior Fullstack Developer**
 
 - 👨‍💻 All of my projects are available at [https://soumyamondal.com/portfolio](https://soumyamondal.com/portfolio)
 
@@ -14,15 +14,16 @@
 - 📫 Reach me at **soumya@mondal.app**
 
 - 📄 Know about my experiences [https://soumyamondal.com/about](https://soumyamondal.com/about)
-- 💎 Have a habit of adjusting and improving projects (clean code + UI)
+  
+- 💎 Have a habit of adjusting and improving projects (UX/ Optimal architecture)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why AI Started by Solving Software Development First?](https://blog.soumyamondal.com/why-ai-started-by-solving-software-development-first#heading-the-bigger-picture-most-people-miss)
 - [My Freelancing journey since 2016](https://blog.soumyamondal.com/my-freelancing-journey-since-2016)
 - [How did I land a job amid recession](https://blog.soumyamondal.com/how-did-i-land-a-job-amid-the-recession)
 - [Express router explained](https://indgeek.com/learn/nodejs/expressjs-router-explained-with-examples)
 - [Linux command cheatsheet](https://indgeek.com/learn/linux/linux-command-cheatsheet-for-beginners)
-- [Create a popup in WordPress without plugin](https://turbohosty.com/blog/create-a-popup-in-wordpress-without-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
