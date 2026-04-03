@@ -5,7 +5,7 @@
 
 - 🔭 Find my GeeksforGeeks Course on NextJS (**5/5 rated with 48,000 interested Geeks**): [GeeksforGeeks NextJS complete course ](https://www.geeksforgeeks.org/courses/nextjs-complete-course)
 
-- 🌱 I’m currently working as a **Senior Fullstack Developer**
+- 🌱 I’m currently working as a **Senior Fullstack Developer in AI**
 
 - 👨‍💻 All of my projects are available at [https://soumyamondal.com/portfolio](https://soumyamondal.com/portfolio)
 
