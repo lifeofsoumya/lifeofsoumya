@@ -57,8 +57,8 @@
 
 
   <br/>
-    <a href="https://github.com/lifeofsoumya/github-readme-stats"><img width="290px" alt="Soumya Mondal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lifeofsoumya&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/lifeofsoumya/github-readme-stats"><img alt="Soumya Mondal's  Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsoumya&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" /></a>
+    <img width="290px" alt="Soumya Mondal's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lifeofsoumya&theme=dark" />
+  <img alt="Soumya Mondal's commit stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lifeofsoumya&theme=dark" />
   <br/>
 <br/>
 
